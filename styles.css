@@ -1,0 +1,17 @@
+* {
+    font-family: sans-serif;
+}
+
+.nav-item {
+    display: inline-block;
+    margin-right: .5%;
+    font-weight: 500;
+    margin-right: 4.5%;
+
+}
+
+.login-button {
+    background-color: lightgreen;
+    padding: 1rem;
+    border-radius: 10px;
+}
